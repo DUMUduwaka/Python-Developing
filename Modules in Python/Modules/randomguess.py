@@ -11,7 +11,7 @@ while True:
                 print('Congratulations, You guessed the number.')
                 break
             else:
-                print('Ooops You are wrong')
+                print('Oops You are wrong')
         else:
             print('Please enter a number between 1 and 10')
     except ValueError:
